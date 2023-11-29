@@ -1,2 +1,2 @@
 # beer-order-service
-Beer Order Service
+Beer Order Service Of Beer SFG project
